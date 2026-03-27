@@ -7,7 +7,7 @@ from PIL import Image
 # Load Model
 model = tf.keras.models.load_model("mnist_ann_model.h5")
 
-st.title("✍️ AI DIGIT RECOGNITION PROJECT (By - Prince rajput)")
+st.title("✍️ AI DIGIT RECOGNITION PROJECT (By - Prince rajput & Team)")
 
 st.write("Draw a digit below 👇")
 
